@@ -42,7 +42,7 @@ import {
 // Points at your own self-hosted backend (see ../backend/server.js).
 // Once that backend is deployed somewhere public, swap this for its real
 // URL (e.g. "https://your-backend.up.railway.app").
-const BASE_URL = "http://localhost:4000";
+const BASE_URL = "https://faithconnect-backend-2pml.onrender.com";
 const TOKEN_KEY = "faithconnect_token";
 
 /**
