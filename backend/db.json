@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": "0b05bb03-7d73-47ee-b278-67e53d4b40ac",
+      "name": "chibueze Ebubechukwu peter",
+      "email": "ebubepeter919@gmail.com",
+      "phone": null,
+      "password_hash": "$2a$10$/F6BqJr6qTzm28COryhhJuDorCABxqZLVXAUFLHwd4TzIa0E39cIi",
+      "is_platform_admin": true,
+      "created_at": "2026-09-16T02:41:22.279Z"
+    }
+  ],
+  "brands": [
+    {
+      "id": "f4f26dbf-9cf9-42a8-a7b1-76cbf5ee5d19",
+      "name": "grace",
+      "slug": "grace",
+      "description": null,
+      "status": "active",
+      "created_at": "2026-09-16T02:48:10.874Z"
+    }
+  ],
+  "churches": [
+    {
+      "id": "c6dd5a55-8e48-4112-b178-2ef7eccfffd8",
+      "brand_id": "f4f26dbf-9cf9-42a8-a7b1-76cbf5ee5d19",
+      "name": "grace",
+      "slug": "grace",
+      "description": null,
+      "location_text": null,
+      "is_verified": false,
+      "status": "active",
+      "created_at": "2026-09-16T02:48:10.884Z"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "66b97fb2-ff7f-44a5-a85f-19c01c3c0e8c",
+      "church_id": "c6dd5a55-8e48-4112-b178-2ef7eccfffd8",
+      "user_id": "0b05bb03-7d73-47ee-b278-67e53d4b40ac",
+      "status": "active",
+      "joined_via": "created",
+      "joined_at": "2026-09-16T02:48:10.884Z",
+      "left_at": null
+    }
+  ],
+  "tags": [],
+  "tagAssignments": [],
+  "gcMessages": [],
+  "stories": [],
+  "posts": [],
+  "likes": [],
+  "media": [],
+  "speakers": [],
+  "events": [],
+  "threads": [],
+  "replies": [],
+  "groups": [],
+  "groupJoins": [],
+  "prayerRequests": [],
+  "prayerSupports": []
+}
